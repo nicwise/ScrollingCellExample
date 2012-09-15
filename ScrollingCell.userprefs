@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScrollingCell/ScrollingElement.cs">
+    <Files>
+      <File FileName="ScrollingCell/AppDelegate.cs" Line="80" Column="5" />
+      <File FileName="ScrollingCell/ScrollElementItem.cs" Line="30" Column="34" />
+      <File FileName="ScrollingCell/ScrollingElement.cs" Line="21" Column="116" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
